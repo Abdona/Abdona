@@ -1,12 +1,13 @@
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)</br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Abdona)
 ## <code>Hello World</code> 
-#### This Abdulrahman <br/> FullStack Developer from Egypt!
+#### This Abdulrahman <br/> Tech Enthusiasts <br/> FullStack Developer from Egypt!
 ## Skills<br/>
  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ## 💬 Ask me about :<br/> 
-- Xbox,Soccer 
 - Technologies
+- ![](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+- Soccer 
 - German (Hallo, Ich bin Abdulrahman und Ich freue mich euch kennnenzulernen)😄 .
 ## 👯 I’m looking to collaborate on 
 - JS and Ruby Projects.
